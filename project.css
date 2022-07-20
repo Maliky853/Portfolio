@@ -1,0 +1,89 @@
+.project-ul{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    text-align: center;
+    margin-top: 3vw;
+    max-width: 60vw;
+    
+    
+}
+.project-ul .project1-li {
+    border: 0.2vh solid white;
+    padding: 2vw;
+    color: white;
+    border-radius: 1vw;
+    /* margin-bottom: 2vw; */
+}
+.project-ul .project1-li h2{
+    padding-bottom: 3vw;
+}
+.project-ul .project1-li h6{
+    padding: 0 0 3vw;
+}
+.project-ul .project1-li p{
+    font-size: 1vw;
+}
+.links-a{
+    padding: 3vw;
+}
+.links-a .live{
+    border: 0.2vw solid greenyellow;
+    margin: 0 2vw;
+    padding: 1vw;
+    text-decoration: none;
+    color: greenyellow;
+    border-radius: 1vw;
+}
+.links-a .code{
+    border: 0.2vw solid white;
+    margin: 0 2vw;
+    padding: 1vw;
+    text-decoration: none;
+    color: white;
+    border-radius: 1vw;
+}
+/* ----------------------------------------- */
+/* project 2 */
+
+
+.project-ul .project2-li {
+    border: 0.2vh solid greenyellow;
+    padding: 2vw;
+    color: greenyellow;
+    margin-top: 2vw;
+    border-radius: 1vw;
+    margin-bottom: 2vw;
+}
+.project-ul .project2-li h2{
+    padding-bottom: 3vw;
+}
+.project-ul .project2-li h6{
+    padding: 0 0 3vw;
+}
+.project-ul .project2-li p{
+    font-size: 1vw;
+}
+.links-a1{
+    padding: 3vw;
+}
+.links-a1 .code{
+    border: 0.2vw solid greenyellow;
+    margin: 0 2vw;
+    padding: 1vw;
+    text-decoration: none;
+    color: greenyellow;
+    border-radius: 1vw;
+}
+.links-a1 .live{
+    border: 0.2vw solid white;
+    margin: 0 2vw;
+    padding: 1vw;
+    text-decoration: none;
+    color: white;
+    border-radius: 1vw;
+}
+
