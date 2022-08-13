@@ -11,6 +11,8 @@ body{
 
 /* navigation */
 
+
+
 .nav-div{
     display: flex;
     justify-content: space-between;
@@ -27,7 +29,8 @@ body{
     border-radius: 1vh;
     margin: 2vh;
     padding: 2vh;
-    font-size: 2vw;
+    font-size: 1vw;
+    list-style: none;
 }
 .nav-div ul{
 display: flex;

@@ -19,10 +19,13 @@
     /* margin-bottom: 2vw; */
 }
 .project-ul .project1-li h2{
-    padding-bottom: 3vw;
+    padding-bottom: 2vw;
 }
 .project-ul .project1-li h6{
-    padding: 0 0 3vw;
+    padding: 0 0 2vw;
+}
+.project-ul .project1-li .marks{
+    color: greenyellow;
 }
 .project-ul .project1-li p{
     font-size: 1vw;
@@ -59,10 +62,13 @@
     margin-bottom: 2vw;
 }
 .project-ul .project2-li h2{
-    padding-bottom: 3vw;
+    padding-bottom: 2vw;
 }
 .project-ul .project2-li h6{
-    padding: 0 0 3vw;
+    padding: 0 0 2vw;
+}
+.project-ul .project1-li .marks{
+    color: white;
 }
 .project-ul .project2-li p{
     font-size: 1vw;
