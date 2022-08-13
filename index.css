@@ -176,21 +176,3 @@ hr{
 .footer .footer-a a:hover{
     color: greenyellow;
 }
-/* footer {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: 2rem;
-    min-height: 100px;
-   
-  
-  }
-  footer a{
-    margin: 1rem;
-    color: white;
-  font-size: 3rem;
-  padding: 1rem;
-  }
-  footer a:hover{
-    color: greenyellow;
-  } */
